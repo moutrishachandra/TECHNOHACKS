@@ -37,12 +37,12 @@ This project uses the OpenWeather API to fetch real-time weather data.
 
  WEATHER REPORT
 -----------------------------------
--📍 City: Kolkata
--🌡️ Temperature: 30 °C
--☁️ Condition: clear sky
--💧 Humidity: 37%
--🌬️ Wind Speed: 7.31 m/s
--🔵 Pressure: 1000 hPa
+### 📍 City: Kolkata
+### 🌡️ Temperature: 30 °C
+### ☁️ Condition: clear sky
+### 💧 Humidity: 37%
+### 🌬️ Wind Speed: 7.31 m/s
+### 🔵 Pressure: 1000 hPa
 -----------------------------------
 
 ## Concepts Used
